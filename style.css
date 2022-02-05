@@ -12,3 +12,13 @@
     font-style: italic;
 
 }
+form{
+    background-color: gainsboro;
+
+}
+
+form p{
+    font-size: large;
+    font-weight: bold;
+}
+
