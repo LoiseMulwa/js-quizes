@@ -12,13 +12,66 @@
     font-style: italic;
 
 }
-form{
-    background-color: gainsboro;
 
-}
 
 form p{
     font-size: large;
     font-weight: bold;
 }
 
+.quiz1{
+    border-radius: 2px;
+    text-align-last: left;
+    padding: 20px; 
+    width: 1200px;
+    height: 120px;  
+    border: 2px solid #23A6F0;
+    background-color: whitesmoke;
+    
+    
+    
+}
+
+.quiz2{
+    margin-top: 100px;
+    border-radius: 2px;
+    text-align-last: left;
+    padding: 20px; 
+    width: 1200px;
+    height: 120px;  
+    border: 2px solid #23A6F0;
+    background-color: whitesmoke;
+}
+
+.quiz3{
+    margin-top: 100px;
+    border-radius: 2px;
+    text-align-last: left;
+    padding: 20px; 
+    width: 1200px;
+    height: 120px;  
+    border: 2px solid #23A6F0;
+    background-color: whitesmoke;
+}
+
+.quiz4{
+    margin-top: 100px;
+    border-radius: 2px;
+    text-align-last: left;
+    padding: 20px; 
+    width: 1200px;
+    height: 120px;  
+    border: 2px solid #23A6F0;
+    background-color: whitesmoke;
+}
+
+.quiz5{
+    margin-top: 100px;
+    border-radius: 2px;
+    text-align-last: left;
+    padding: 20px; 
+    width: 1200px;
+    height: 120px;  
+    border: 2px solid #23A6F0;
+    background-color: whitesmoke;
+}
