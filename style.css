@@ -1,0 +1,14 @@
+.logo img{
+    height: 20vh;
+    width: 20vh;
+}
+
+.heading{
+    text-align: center;
+}
+.logo p{
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+
+}
