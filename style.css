@@ -89,3 +89,18 @@ form p{
 .main{
     background-color: #b29700 ;
 }
+
+button{
+    margin-top: 40px;
+    margin-top: 100px;
+    border-radius: 2px;
+    text-align-last: left;
+    padding: 20px; 
+    width: 120px;
+    height: 50px;  
+    border: 2px solid #23A6F0;
+    background-color: #23A6F0;
+    text-align: center;
+    font-weight: bold;
+     color: white;
+}
