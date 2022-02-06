@@ -34,6 +34,9 @@ form p{
     
     
 }
+.quiz1 p{
+    font-weight: normal;
+}
 
 .quiz2{
     margin-top: 100px;
