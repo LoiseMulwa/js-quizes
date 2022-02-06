@@ -1,10 +1,11 @@
 .logo img{
-    height: 20vh;
-    width: 20vh;
+    height: 40vh;
+    width: 60vh;
 }
 
 .heading{
     text-align: center;
+    margin-top: 100px;
 }
 .logo p{
     font-size: medium;
@@ -14,12 +15,14 @@
 }
 
 
+
 form p{
     font-size: large;
     font-weight: bold;
 }
 
 .quiz1{
+    margin-top: 50px;
     border-radius: 2px;
     text-align-last: left;
     padding: 20px; 
@@ -74,4 +77,15 @@ form p{
     height: 120px;  
     border: 2px solid #23A6F0;
     background-color: whitesmoke;
+}
+.logo p{
+    float:left;
+}
+
+.motto{
+    float: right;
+    
+}
+.main{
+    background-color: #b29700 ;
 }
