@@ -99,6 +99,20 @@ form p{
     display: flex;
     justify-content: space-around;
     background-color: #b29700;
+    
 
 
+}
+.foot p{
+    font-weight: bold;
+}
+
+#BTN{
+    margin-top: 30px;
+    border-radius: 10px;
+    border:  2px solid#23A6F0;
+    height: 10vh;
+    width: 20vh;
+    background-color: beige;
+    font-weight: bold;
 }
