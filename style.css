@@ -104,3 +104,11 @@ button{
     font-weight: bold;
      color: white;
 }
+.foot {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #b29700;
+
+
+}
