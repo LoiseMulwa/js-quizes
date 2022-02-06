@@ -1,7 +1,7 @@
 # Portfolio
 
 ##### By Loise Mulwa
-### It is a description of my resume.
+### This is a website containing some highschool quizes about JavaScript .
 
 ## Table of Content
 
@@ -43,7 +43,9 @@ Click to view License [Click to view license](LICENSE)
 
 
 ## Authors Info
-Name -Loise Mulwa
+Name -Loise Mulwa.
+Linked in- https://www.linkedin.com/in/loise-mulwa-961391224/.
+
 
 
 
