@@ -1,6 +1,6 @@
 # Portfolio
 
-##### By Albert Byrone 
+##### By Loise Mulwa
 ### It is a description of my resume.
 
 ## Table of Content
@@ -13,9 +13,9 @@
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This is  a website which has some JavaScript quizes </p>
+<p>This is  a website which has some JavaScript quizes .</p>
 
-## Installation
+
 
 ### Requirements
 
@@ -23,11 +23,12 @@
 
 * An access to the Internet
 
-### Installation Process
+
+
 
 
 ## Technology Used
-* HTNL - which was used to build the structure of the pages.
+* HTML - which was used to build the structure of the pages.
 
 * CSS - which was used to style the pages incuding the left aside navigation bar.
 * JavaScript- Which was used to the website interactive .
