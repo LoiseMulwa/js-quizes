@@ -33,6 +33,9 @@
 * CSS - which was used to style the pages incuding the left aside navigation bar.
 * JavaScript- Which was used to the website interactive .
 
+## DESIGN
+* Click this link to view my design. https://www.figma.com/file/RRU25QAFegc8VyXt6xAUwZ/Untitled?node-id=0%3A1
+
 
 
 
